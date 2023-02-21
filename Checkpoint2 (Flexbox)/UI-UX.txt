@@ -1,0 +1,50 @@
+Task two:
+
+
+https://sebkay.com/ 
+
+#191a1d Negro grisáceo
+
+#5e5e5e Gris oscuro
+
+#4b6cc1 Azul
+
+
+Task three:
+
+
+
+https://www.youtube.com/
+
+Un sitio dónde pueda ver vídeos de cualquier índole con las posibilidad de buscarlos con palabras clave.
+Que pueda compartirlo con amigos, no sólo via youtube.
+Dónde pueda registrarme y tener mis vídeos almacenados.
+Que pueda crear listas para guardar mis vídeos favoritos.
+Que pueda seguir a mis canales favoritos y estar al tanto mediante notificaciones de las últimas actualizaciones.
+Que según mis visitas a diferentes vídeos el algoritmo sepa cuales son mis preferencias.
+Que segmente mis preferencias por temáticas a las que yo pueda recurrir.
+
+
+
+Task four:
+
+
+https://www.youtube.com/
+
+Red social que mediante registro se pueden almacenar vídeos con la posibilidad de compartirlos.
+
+
+https://twitter.com/home?lang=en
+
+Red social dónde se puede compartir pensamientos, links externos, y de mismos comentarios de otros usuarios, así como guardarlos.
+
+
+https://www.facebook.com/ 
+
+Red social en la que puedas crear un perfil y compartir enlaces, fotografías, pensamientos, pudiendo tener tu perfil público o sólo para tu grupo de amigos.
+
+
+https://www.google.com/ 
+
+Web dónde puedes buscar cualquier tipo de información en la red, dando como resultados links de páginas web dónde está publicada la información.
+
